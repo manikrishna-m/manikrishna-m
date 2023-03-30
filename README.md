@@ -10,12 +10,16 @@ I'm an aspiring data scientist with experience in data analytics, data engineeri
 
 ## 🛠️ Skills
 
-- Python
-- AWS
-- SQL
 - Tableau
+- SQL
 - MongoDB
-- Data modeling
+- Exploratory Data Analysis
+- Python
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- AWS
 - MLOps
 - Agile
 
