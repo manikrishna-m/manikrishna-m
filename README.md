@@ -4,13 +4,9 @@ I'm an aspiring data scientist with experience in data analytics, data engineeri
 
 ## 📚 Education
 
-- [Name of degree or certification], [Name of institution], [Year]
-- [Name of degree or certification], [Name of institution], [Year]
+- MSc Data Science and Analytics, University of Leeds, 2022 - 2023
+- Btech Computer Science and Engineering, Gayatri Vidya Parishad College of Engineering, 2016 - 2020
 
-## 💻 Projects
-
-- [Name of project], [Link to repository or deployed project], [Description]
-- [Name of project], [Link to repository or deployed project], [Description]
 
 ## 🛠️ Skills
 
@@ -23,11 +19,7 @@ I'm an aspiring data scientist with experience in data analytics, data engineeri
 - MLOps
 - Agile
 
-## 📈 Stats
-
-[![Manikrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikrishna-mandepudi&show_icons=true&theme=radical)](https://github.com/manikrishna-mandepudi/github-readme-stats)
-
 ## 📫 Contact
 
-- Email: [Your email address]
-- LinkedIn: [Your LinkedIn profile URL]
+- Email: [mandepudi.mk@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/manikrishna-m/]
