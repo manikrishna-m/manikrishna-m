@@ -15,7 +15,6 @@
 - Computer Vision
 - Natural Language Processing
 - AWS
-- MLOps
 - Agile
 
 ## 📫 Contact
