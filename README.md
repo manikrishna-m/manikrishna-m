@@ -12,7 +12,7 @@ Tableau, SQL, Exploratory Data Analysis, Python, Regression and Classification, 
 Let's collaborate and build something amazing together! Connect with me on:
 
 - **LinkedIn:** [Manikrishna Mandepudi](https://www.linkedin.com/in/manikrishna-mandepudi/)
-- **Email:** your.email@example.com
+- **Email:** mandepudi.mk@gmail.com
 
 Looking forward to exciting collaborations and data-driven adventures! 🌟
 
