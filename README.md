@@ -1,4 +1,4 @@
-# Manikrishna Mandepudi
+# Mani Krishna
 
 ## 👋 Hello, World!
 
