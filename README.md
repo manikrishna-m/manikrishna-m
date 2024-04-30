@@ -1,9 +1,16 @@
 # Mani Krishna
 
-Welcome to my GitHub profile! I'm Manikrishna, dynamic data enthusiast with a strong foundation in data science and a proven track record of leveraging data science to drive innovation. Currently working as Data Scientist at Amygda, I bring a robust background, hands-on experience, and a proactive approach to problem-solving.
+🎓 Data Science MSc graduate from the University of Leeds with a strong background in Computer Science (BTech from Gayatri Vidya Parishad College of Engineering). Currently enhancing data-driven decisions at Amygda AI, Derby, UK.
 
-## 🛠️ Skills
-Tableau: 📊, SQL: 📝, EDA: 🔍, Python: 🐍, Regression/Classification: 📈, Clustering/Dimensionality Reduction: 📉, Ensemble Methods: 🤝, Neural Networks (ANN, CNN, RNN): 🧠, Object Detection: 🕵️, NLP: 🗣️, Large Language Models (LLMs): 📚, AWS: ☁️, GCP: ☁️, Docker: 🐳
+🔍 Skilled in Python, R, SQL, and various data science frameworks and tools. Proven track record in machine learning, deep learning, computer vision, and NLP.
+
+💼 Experience includes impactful roles at Amygda AI and Infosys Ltd, where I've delivered significant improvements in predictive analytics, anomaly detection, and conversational AI.
+
+🚀 Led innovative projects like AI Exploration of MalariaXpose, a Classification Model for ICO Campaigns, a Medical Chatbot, and Image Captioning Model Development, demonstrating prowess in AI and ML applications.
+
+🏆 Recipient of prestigious awards and scholarships, demonstrating academic excellence and coding proficiency.
+
+🌐 Actively engaged in the data science community, contributing knowledge and leading in student organizations to foster a collaborative learning environment.
 
 ## 🤝 Let's Connect
 
