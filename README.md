@@ -1,4 +1,3 @@
-```markdown
 # Mani Mandepudi
 
 **Data Scientist** (3+ years) building and shipping **production ML**, **scalable data pipelines**, and **MLOps** that deliver measurable impact.
@@ -101,4 +100,3 @@ Active participant in local **data science meetups**; share learnings on **Mediu
 - **Email:** mandepudi.mk@gmail.com
 
 ---
-```
