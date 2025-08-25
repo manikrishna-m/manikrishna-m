@@ -4,17 +4,6 @@
 
 ---
 
-## ⚡ Impact Highlights
-
-- Deployed **4 production ML models** for predictive maintenance → **20%** reduction in unplanned downtime.  
-- Built **ETL + prediction pipeline** with optimised SQL → **60%** runtime reduction and lower costs.  
-- Trained **XGBoost time-series** model for train faults (**0.73 recall**), delivered via **Streamlit** and deployed on **Cloud Run**.  
-- Processed **14k+ files** with **PySpark** on **Dataproc** → **40%** faster time-to-insight.  
-- Established **MLOps** with **MLflow + GitHub Actions + Docker** → **99.5%** system reliability.  
-- Introduced **project template + pre-commit** → consistent, higher-quality repos across teams.
-
----
-
 ## 🧰 Tech Stack & Skills
 
 **Languages & Databases**  
