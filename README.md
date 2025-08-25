@@ -52,17 +52,6 @@
 
 ---
 
-## 🧪 Selected Work
-
-- **Predictive Maintenance (Aviation & Rail)** – production ML models with **20%** downtime reduction; **MLflow**, **Docker**, **GCP**.
-- **High-throughput ETL + Inference** – Python + PostgreSQL + PySpark pipelines; **60%** faster.
-- **Time-series Fault Prediction** – **XGBoost** model (**0.73 recall**), **Streamlit** UI, **Cloud Run** deploy.
-- **Document Intelligence** – **PDF→Text** package; **GPT-4 + Neo4j** knowledge graph for retrieval (+**25%**).
-
-> 🔗 Pin repos to showcase these (e.g., `predictive-maintenance-rail`, `etl-inference-gcp`, `xgb-fault-pred-streamlit`, `pdf2text-toolkit`, `neo4j-gpt-kg`).  
-
----
-
 ## 🎓 Education
 
 - **MSc Data Science** — University of Leeds  
